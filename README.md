@@ -34,7 +34,3 @@ To build a machine learning model that can accurately classify whether a person 
 - Correlation heatmap
 - Feature importance bar plot
 - Confusion matrix
-
-
-## 📁 Project Structure
-
