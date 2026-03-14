@@ -26,7 +26,7 @@ To build a machine learning model that can accurately classify whether a person 
 ## 📈 Model Performance
 
 - Final model: **Random Forest Classifier**
-- Accuracy: **XX%** *(replace with your result)*
+- Accuracy: 79%
 - Evaluation metrics: Precision, Recall, F1-score using `classification_report`
 
 ## 📊 Sample Visualizations
